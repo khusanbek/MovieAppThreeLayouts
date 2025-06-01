@@ -9,3 +9,6 @@ Movie selected<br>
 
 Seat selection window<br>
 ![screenshot](seatSelection.png)
+
+Seat selection window, seat picked <br>
+![screenshot](seatSelectionPicked.png)
